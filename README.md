@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Emmanuel Udorah
 
-### Front-End Web Developer & Creative Designer
+### 💻 Front-End Web Developer | 🎨 Creative Designer | 🎓 Computer Science Student
 
-I'm a passionate **Front-End Web Developer and Creative Designer** focused on building modern, responsive, and user-friendly digital experiences.
+I'm a **Front-End Web Developer and Creative Designer** passionate about building modern, responsive, accessible, and visually engaging digital experiences.
 
-I enjoy transforming ideas and designs into functional web applications while paying attention to usability, performance, responsiveness, and visual quality.
+I combine **software development, design, and creative problem-solving** to transform ideas into functional digital products.
+
+I'm currently studying **BSc. Computer Science at Miva Open University**, while continuously developing my skills through real-world projects, collaboration, and hands-on learning.
 
 ---
 
@@ -13,7 +15,7 @@ I enjoy transforming ideas and designs into functional web applications while pa
 <p align="left">
 
 <a href="https://www.emmydev.me" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-emmydev.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-emmydev.me-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/emmanuel-udorah-211090395" target="_blank">
@@ -42,93 +44,210 @@ I enjoy transforming ideas and designs into functional web applications while pa
 
 ## 👨‍💻 About Me
 
-- 💻 Front-End Web Developer
-- 🎨 Creative Designer
-- ⚛️ React.js & Next.js Developer
-- 🟦 TypeScript & Tailwind CSS
-- 📱 Responsive Web Development
-- 🎯 Focused on intuitive and engaging user experiences
-- 🌱 Continuously learning and improving
-- 🤝 Open to collaborations and meaningful technology projects
+* 💻 Front-End Web Developer
+* 🎨 Graphic & Creative Designer
+* 🎓 BSc. Computer Science Student
+* ⚛️ React.js & Next.js Developer
+* 🟦 TypeScript & Tailwind CSS
+* 🐍 Python Developer
+* 📱 Responsive Web Developer
+* 🎨 UI/UX Design Enthusiast
+* 📸 Photo Editor
+* 🔧 Git & GitHub
+* ☁️ Vercel Deployment
+* 🌱 Always learning and improving
+* 🤝 Open to collaborations and meaningful technology projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Skills
 
-### Front-End Development
+### 💻 Programming & Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs" />
+</p>
 
-### Styling & UI
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* Python
+* React.js
+* Next.js
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+### 🎨 Styling & UI
 
-### Design
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+</p>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+* Tailwind CSS
+* Bootstrap
+* Material UI
+* Responsive Web Design
+* UI/UX Design
+* Web Accessibility
+* Typography
+* Layout Design
 
-### Tools
+### 🎨 Graphic Design
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+* Figma
+* Adobe Photoshop
+* Adobe Illustrator
+* CorelDRAW
+* Canva
+* Brand Identity
+* Graphic Design
+* Visual Design
+
+### 📸 Photo Editing
+
+* Image Retouching
+* Color Correction
+* Photo Manipulation
+* Background Removal
+
+### 🔧 Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+* Git
+* GitHub
+* Visual Studio Code
+* Vercel
+* Website Deployment
+* Website Maintenance
+
+---
+
+## 🎓 Education
+
+### 🎓 Miva Open University
+
+**BSc. Computer Science**
+
+**School of Computing**
+
+📍 Nigeria
+
+I'm currently pursuing a Bachelor's degree in Computer Science, building a strong foundation in programming, algorithms, data structures, software development, and other areas of computing.
+
+🔗 **University:** [Miva Open University](https://miva.edu.ng/)
+
+🔗 **BSc. Computer Science Programme:** [View Programme](https://miva.university/bsc-in-computer-science/)
+
+Miva Open University is licensed by the National Universities Commission (NUC).
+
+---
+
+## 💼 Professional Experience
+
+### Front-End Developer
+
+**Meezak Technologies**
+
+📍 Lagos State, Nigeria
+
+**March 2023 – December 2025**
+
+Worked on building responsive and scalable web applications while collaborating on development and design-related tasks.
+
+**Highlights:**
+
+* 🚀 Developed and contributed to multiple scalable web applications
+* 💻 Built responsive interfaces using modern frontend technologies
+* 🎨 Translated design concepts into functional web interfaces
+* ⚡ Improved development workflows and turnaround time
+* 🔧 Worked with modern development tools and technologies
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Tech Bridge Academy
+### 🌉 Tech Bridge Academy
 
-A technology-focused platform built around **learning, collaboration, and innovation**.
+A technology-focused platform centered around **learning, collaboration, and innovation**.
+
+**Focus:** Education • Technology • Collaboration
+
+---
 
 ### 📊 Admin Dashboard
 
-A responsive dashboard application focused on **data management, analytics, and intuitive information presentation**.
+A responsive dashboard application designed for **data management, analytics, and intuitive information presentation**.
 
-### 💼 Personal Portfolio
+**Technologies:** React / Next.js • TypeScript • Tailwind CSS
 
-My personal developer portfolio showcasing my **projects, skills, design work, and experience**.
+---
 
-🌐 **Visit:** [www.emmydev.me](https://www.emmydev.me)
+### 💼 EmmyDev Portfolio
+
+My personal portfolio showcasing my development, design skills, projects, and professional journey.
+
+🌐 **[www.emmydev.me](https://www.emmydev.me)**
 
 ---
 
 ## 🎯 What I Build
 
-- 🌐 Responsive Websites
-- ⚛️ Modern React Applications
-- ▲ Next.js Applications
-- 📊 Admin Dashboards
-- 🎨 UI-focused Web Interfaces
-- 💼 Portfolio Websites
-- 🚀 Landing Pages
-- 🧩 Interactive Digital Experiences
+```text
+🌐 Responsive Websites
+⚛️ React Applications
+▲ Next.js Applications
+📊 Admin Dashboards
+💻 Web Applications
+🎨 UI-Focused Interfaces
+💼 Portfolio Websites
+🚀 Landing Pages
+📱 Responsive Mobile Experiences
+🧩 Interactive Digital Experiences
+```
+
+---
+
+## 🧠 Core Skills
+
+| Development  | Design         | Other             |
+| ------------ | -------------- | ----------------- |
+| HTML5        | Figma          | Git/GitHub        |
+| CSS3         | Photoshop      | Vercel            |
+| JavaScript   | Illustrator    | VS Code           |
+| TypeScript   | CorelDRAW      | Web Maintenance   |
+| React.js     | Canva          | Responsive Design |
+| Next.js      | Typography     | Accessibility     |
+| Python       | Layout Design  | Problem Solving   |
+| Tailwind CSS | Brand Identity | Collaboration     |
+| Bootstrap    | Photo Editing  | Customer Service  |
+| Material UI  | UI/UX          |                   |
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced React & Next.js
-- TypeScript
-- Full-Stack Web Development
-- UI/UX Design
-- Web Performance
-- Scalable Application Architecture
+I'm continuously expanding my knowledge in:
+
+* 🚀 Advanced React & Next.js
+* 🟦 TypeScript
+* 🐍 Python
+* 💻 Full-Stack Web Development
+* 🎨 UI/UX Design
+* ⚡ Web Performance
+* 🏗️ Scalable Application Architecture
+* ♿ Web Accessibility
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with **developers, designers, organizations, and people building meaningful technology projects.**
+I'm interested in connecting with **developers, designers, organizations, recruiters, and people building meaningful technology projects.**
 
 🌐 **Portfolio:** [emmydev.me](https://www.emmydev.me)
 
@@ -138,12 +257,18 @@ I'm always interested in connecting with **developers, designers, organizations,
 
 📘 **Facebook:** [Emmanuel Udorah](https://www.facebook.com/share/1MMGfk2G45/)
 
-💬 **WhatsApp:** [Chat with me](https://wa.me/2349016484712)
+💬 **WhatsApp:** [Let's Chat](https://wa.me/2349016484712)
 
 📧 **Email:** [udorahemmanuel23@gmail.com](mailto:udorahemmanuel23@gmail.com)
 
 ---
 
-### ⚡ Turning ideas into engaging digital experiences.
+## ⚡ Personal Motto
 
-⭐ Thanks for visiting my profile!
+> **"Turning ideas into engaging digital experiences."**
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+If you like what I build, feel free to explore my repositories and connect with me.
