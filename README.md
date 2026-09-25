@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Emmanuel Udorah
+#  Hi, I'm Emmanuel Udorah
 
-### 💻 Front-End Web Developer | 🎨 Creative Designer | 🎓 Computer Science Student
+###  Front-End Web Developer |  Creative Designer |  Computer Science Student
 
 I'm a **Front-End Web Developer and Creative Designer** passionate about building modern, responsive, accessible, and visually engaging digital experiences.
 
@@ -10,151 +10,129 @@ I'm currently studying **BSc. Computer Science at Miva Open University**, while 
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
 <a href="https://www.emmydev.me" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-emmydev.me-000000?style=for-the-badge"/>
+  <img src="https://cdn.simpleicons.org/googlechrome/000000" width="40" height="40" alt="Portfolio" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/emmanuel-udorah-211090395" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/fineboyemmy_/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/share/1MMGfk2G45/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://wa.me/2349016484712" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" />
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:udorahemmanuel23@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" />
 </a>
 
 </p>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-* 💻 Front-End Web Developer
-* 🎨 Graphic & Creative Designer
-* 🎓 BSc. Computer Science Student
-* ⚛️ React.js & Next.js Developer
-* 🟦 TypeScript & Tailwind CSS
-* 🐍 Python Developer
-* 📱 Responsive Web Developer
-* 🎨 UI/UX Design Enthusiast
-* 📸 Photo Editor
-* 🔧 Git & GitHub
-* ☁️ Vercel Deployment
-* 🌱 Always learning and improving
-* 🤝 Open to collaborations and meaningful technology projects
+*  Front-End Web Developer
+*  Graphic & Creative Designer
+*  BSc. Computer Science Student
+*  React.js & Next.js Developer
+*  TypeScript & Tailwind CSS
+*  Python Developer
+*  Responsive Web Developer
+*  UI/UX Design Enthusiast
+*  Photo Editor
+*  Git & GitHub
+*  Vercel Deployment
+*  Always learning and improving
+*  Open to collaborations and meaningful technology projects
 
 ---
 
-## 🛠️ Technologies & Skills
+##  Technologies & Skills
 
-### 💻 Programming & Web Development
+###  Programming & Web Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs" />
 </p>
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* Python
-* React.js
-* Next.js
+ **HTML5** **CSS3** **JavaScript** **TypeScript** **Python** **React.js** **Next.js**
 
-### 🎨 Styling & UI
+###  Styling & UI
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
-* Tailwind CSS
-* Bootstrap
-* Material UI
-* Responsive Web Design
-* UI/UX Design
-* Web Accessibility
-* Typography
-* Layout Design
+ **Tailwind CSS** **Bootstrap** **Material UI** **Responsive Web Design** **UI/UX Design** **Web Accessibility** **Typography** **Layout Design**
 
-### 🎨 Graphic Design
+###  Graphic Design
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://cdn.simpleicons.org/coreldraw/000000" width="48" height="48" alt="CorelDRAW" />
 </p>
 
-* Figma
-* Adobe Photoshop
-* Adobe Illustrator
-* CorelDRAW
-* Canva
-* Brand Identity
-* Graphic Design
-* Visual Design
+ **Figma** **Adobe Photoshop** **Adobe Illustrator** **CorelDRAW** **Canva** **Brand Identity** **Visual Design**
 
-### 📸 Photo Editing
+###  Photo Editing
 
-* Image Retouching
-* Color Correction
-* Photo Manipulation
-* Background Removal
+ **Image Retouching** **Color Correction** **Photo Manipulation** **Background Removal**
 
-### 🔧 Development Tools
+###  Development Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
-* Git
-* GitHub
-* Visual Studio Code
-* Vercel
-* Website Deployment
-* Website Maintenance
+ **Git** **GitHub** **Visual Studio Code** **Vercel** **Website Deployment** **Website Maintenance**
 
 ---
 
-## 🎓 Education
+##  Education
 
-### 🎓 Miva Open University
+###  Miva Open University
 
 **BSc. Computer Science**
 
 **School of Computing**
 
-📍 Nigeria
+ Nigeria
 
 I'm currently pursuing a Bachelor's degree in Computer Science, building a strong foundation in programming, algorithms, data structures, software development, and other areas of computing.
 
-🔗 **University:** [Miva Open University](https://miva.edu.ng/)
+ **University:** [Miva Open University](https://miva.edu.ng/)
 
-🔗 **BSc. Computer Science Programme:** [View Programme](https://miva.university/bsc-in-computer-science/)
+ **BSc. Computer Science Programme:** [View Programme](https://miva.university/bsc-in-computer-science/)
 
 Miva Open University is licensed by the National Universities Commission (NUC).
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Front-End Developer
 
 **Meezak Technologies**
 
-📍 Lagos State, Nigeria
+ Lagos State, Nigeria
 
 **March 2023 – December 2025**
 
@@ -162,17 +140,17 @@ Worked on building responsive and scalable web applications while collaborating 
 
 **Highlights:**
 
-* 🚀 Developed and contributed to multiple scalable web applications
-* 💻 Built responsive interfaces using modern frontend technologies
-* 🎨 Translated design concepts into functional web interfaces
-* ⚡ Improved development workflows and turnaround time
-* 🔧 Worked with modern development tools and technologies
+*  Developed and contributed to multiple scalable web applications
+*  Built responsive interfaces using modern frontend technologies
+*  Translated design concepts into functional web interfaces
+*  Improved development workflows and turnaround time
+*  Worked with modern development tools and technologies
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🌉 Tech Bridge Academy
+###  Tech Bridge Academy
 
 A technology-focused platform centered around **learning, collaboration, and innovation**.
 
@@ -180,7 +158,7 @@ A technology-focused platform centered around **learning, collaboration, and inn
 
 ---
 
-### 📊 Admin Dashboard
+###  Admin Dashboard
 
 A responsive dashboard application designed for **data management, analytics, and intuitive information presentation**.
 
@@ -188,32 +166,32 @@ A responsive dashboard application designed for **data management, analytics, an
 
 ---
 
-### 💼 EmmyDev Portfolio
+###  EmmyDev Portfolio
 
 My personal portfolio showcasing my development, design skills, projects, and professional journey.
 
-🌐 **[www.emmydev.me](https://www.emmydev.me)**
+ **[www.emmydev.me](https://www.emmydev.me)**
 
 ---
 
-## 🎯 What I Build
+##  What I Build
 
 ```text
-🌐 Responsive Websites
-⚛️ React Applications
-▲ Next.js Applications
-📊 Admin Dashboards
-💻 Web Applications
-🎨 UI-Focused Interfaces
-💼 Portfolio Websites
-🚀 Landing Pages
-📱 Responsive Mobile Experiences
-🧩 Interactive Digital Experiences
+ Responsive Websites
+ React Applications
+ Next.js Applications
+ Admin Dashboards
+ Web Applications
+ UI-Focused Interfaces
+ Portfolio Websites
+ Landing Pages
+ Responsive Mobile Experiences
+ Interactive Digital Experiences
 ```
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 
 | Development  | Design         | Other             |
 | ------------ | -------------- | ----------------- |
@@ -230,40 +208,23 @@ My personal portfolio showcasing my development, design skills, projects, and pr
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 I'm continuously expanding my knowledge in:
 
-* 🚀 Advanced React & Next.js
-* 🟦 TypeScript
-* 🐍 Python
-* 💻 Full-Stack Web Development
-* 🎨 UI/UX Design
-* ⚡ Web Performance
-* 🏗️ Scalable Application Architecture
-* ♿ Web Accessibility
+*  Advanced React & Next.js
+*  TypeScript
+*  Python
+*  Full-Stack Web Development
+*  UI/UX Design
+*  Web Performance
+*  Scalable Application Architecture
+*  Web Accessibility
+
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in connecting with **developers, designers, organizations, recruiters, and people building meaningful technology projects.**
-
-🌐 **Portfolio:** [emmydev.me](https://www.emmydev.me)
-
-💼 **LinkedIn:** [Emmanuel Udorah](https://www.linkedin.com/in/emmanuel-udorah-211090395)
-
-📸 **Instagram:** [@fineboyemmy_](https://www.instagram.com/fineboyemmy_/)
-
-📘 **Facebook:** [Emmanuel Udorah](https://www.facebook.com/share/1MMGfk2G45/)
-
-💬 **WhatsApp:** [Let's Chat](https://wa.me/2349016484712)
-
-📧 **Email:** [udorahemmanuel23@gmail.com](mailto:udorahemmanuel23@gmail.com)
-
----
-
-## ⚡ Personal Motto
+##  Personal Motto
 
 > **"Turning ideas into engaging digital experiences."**
 
